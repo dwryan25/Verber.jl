@@ -1,0 +1,4 @@
+name = "Verber"
+uuid = "c91d9d2f-de1a-4aa1-912d-c320a0c952a5"
+authors = ["Dennis Ryan <dwryan03@gmail.com>"]
+version = "0.1.0"
